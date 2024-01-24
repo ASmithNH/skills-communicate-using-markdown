@@ -10,3 +10,7 @@
 ```
 var myVar = "Hello, world!";
 ```
+
+- [ ] Item One
+- [ ] Item Two
+- [ ] Item Three
